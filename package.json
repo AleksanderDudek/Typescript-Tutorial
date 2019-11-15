@@ -1,0 +1,15 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "lets see some ts",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/core-js": "^2.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AD",
+  "license": "ISC"
+}
